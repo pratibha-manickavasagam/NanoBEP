@@ -1,0 +1,121 @@
+{
+    "modeller_fast": {
+        ">TIME_FireDock": {
+            "0": 159.10949597798754
+        },
+        ">TIME_FoldX": {
+            "0": 184.79926911590155
+        },
+        ">TIME_makemodel": {
+            "0": 44.22753505804576
+        },
+        ">TIME_pyDock": {
+            "0": 9.926858455059119
+        },
+        ">TIME_sasa": {
+            "0": 2.5029592640930787
+        },
+        "BSA": {
+            "0": 2223.01318359375
+        },
+        "BSA_A": {
+            "0": 685.6787109375
+        },
+        "BSA_C": {
+            "0": 625.0489501953125
+        },
+        "BSA_P": {
+            "0": 912.2857666015625
+        },
+        "FireDock": {
+            "0": -101.68
+        },
+        "FireDock_ACE": {
+            "0": -1.04
+        },
+        "FireDock_aElec": {
+            "0": -33.33
+        },
+        "FireDock_aVdW": {
+            "0": -60.48
+        },
+        "FireDock_aliph": {
+            "0": -0.5
+        },
+        "FireDock_catpiS": {
+            "0": 0.0
+        },
+        "FireDock_hb": {
+            "0": -7.1
+        },
+        "FireDock_inside": {
+            "0": 10.94
+        },
+        "FireDock_laElec": {
+            "0": -7.33
+        },
+        "FireDock_lrElec": {
+            "0": 4.06
+        },
+        "FireDock_piS": {
+            "0": -3.0
+        },
+        "FireDock_rElec": {
+            "0": 0.0
+        },
+        "FireDock_rVdW": {
+            "0": 18.45
+        },
+        "FoldX": {
+            "0": -11.2234
+        },
+        "FoldX_backbone_hbond": {
+            "0": -4.74792
+        },
+        "FoldX_elec": {
+            "0": -3.69094
+        },
+        "FoldX_entropy_mainchain": {
+            "0": 7.28928
+        },
+        "FoldX_entropy_sidechain": {
+            "0": 7.62257
+        },
+        "FoldX_sidechain_hbond": {
+            "0": -10.8642
+        },
+        "FoldX_solvation_hydrophobic": {
+            "0": -20.7311
+        },
+        "FoldX_solvation_polar": {
+            "0": 29.3369
+        },
+        "FoldX_vdw": {
+            "0": -18.1894
+        },
+        "NIS_A": {
+            "0": 33.51648351648352
+        },
+        "NIS_C": {
+            "0": 24.17582417582418
+        },
+        "NIS_P": {
+            "0": 42.307692307692314
+        },
+        "NRES": {
+            "0": 616.0
+        },
+        "pyDock": {
+            "0": -32.454
+        },
+        "pyDock_desolv": {
+            "0": -2.926
+        },
+        "pyDock_elec": {
+            "0": -18.472
+        },
+        "pyDock_vdw": {
+            "0": -110.55
+        }
+    }
+}
